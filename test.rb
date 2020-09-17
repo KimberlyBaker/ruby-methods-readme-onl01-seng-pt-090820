@@ -3,3 +3,5 @@ def say_hello_two
   puts phrase
   puts phrase
 end
+
+say_hello_two
